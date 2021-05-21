@@ -1,4 +1,4 @@
-# Dineout Clone 
+
 
 We have cloned a restaurant table reservation application called DineOut. It simply meant allowing diners to reserve a guaranteed table at the top restaurants in the city. Over time it has evolved to provide multiple benefits on one platform for all dining out needs.
 
